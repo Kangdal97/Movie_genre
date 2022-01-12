@@ -1,0 +1,9 @@
+<RCC>
+  <qresource>
+    <file>images/img_background.png</file>
+    <file>images/img_movie_icon.png</file>
+    <file>images/img_movie.png</file>
+    <file>images/img_reset.png</file>
+    <file>images/img_predict.png</file>
+  </qresource>
+</RCC>
